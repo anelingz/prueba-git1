@@ -17,7 +17,7 @@
  * You should have received a copy of the GNU General Public License
  * along with Practicas Git para Nancy. If not, see <http://www.gnu.org/licenses/>.
  */
-
+// un comentario random por 209366113
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -25,3 +25,4 @@ intmain (int argc, char *argv[]) {
 	fprintf (stdout, "Hola mundo\n");
 	return EXIT_SUCCESS;
 }
+
