@@ -1,3 +1,5 @@
 #!/bin/usr/env python
 
+# Licenciado bajo GPL
 echo "Hello Wold!"
+echo "Gatuno was here."
