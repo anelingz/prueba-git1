@@ -24,3 +24,4 @@ int main (int argc, char *argv[]) {
 	fprintf (stdout, "Hola mundo\n");
 	return EXIT_SUCCESS;
 }
+//Cariño como te complicas para hacer un hola mundo :3
